@@ -13,7 +13,7 @@ Repositorio de la clase de MLxE
 - https://scikit-learn.org/stable/
 - https://geopandas.org/
 - https://www.tensorflow.org/api_docs/python/tf
-- (Numpy)[https://numpy.org/doc/1.21/]
+- [Numpy](https://numpy.org/doc/1.21/)
 
 ### App web
 
