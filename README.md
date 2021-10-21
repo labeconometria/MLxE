@@ -19,7 +19,7 @@ https://www.tensorflow.org/api_docs/python/tf
 https://docs.streamlit.io
 https://fastapi.tiangolo.com
 
-## Datos
+## Recursos
 
 https://www.policia.gov.co/grupo-informacion-criminalidad/estadistica-delictiva
 https://geoportal.dane.gov.co/servicios/descarga-y-metadatos/descarga-mgn-marco-geoestadistico-nacional/
