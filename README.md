@@ -6,19 +6,20 @@ Repositorio de la clase de MLxE
 
 ### Básicas
 
-- https://numpy.org/doc/1.21/
-- https://docs.scipy.org/doc/scipy/reference/
-- https://matplotlib.org/stable/contents.html
-- https://seaborn.pydata.org
-- https://scikit-learn.org/stable/
-- https://geopandas.org/
-- https://www.tensorflow.org/api_docs/python/tf
-- [Numpy](https://numpy.org/doc/1.21/)
+- [NumPy](https://numpy.org/doc/1.21/)
+- [SciPy](https://docs.scipy.org/doc/scipy/reference/)
+- [Matplotlib](https://matplotlib.org/stable/contents.html)
+- [Seaborn](https://seaborn.pydata.org)
+- [Sklearn](https://scikit-learn.org/stable/)
+- [GeoPandas](https://geopandas.org/)
+- [TensorFlow](https://www.tensorflow.org/api_docs/python/tf)
+- [Pandas](https://pandas.pydata.org/docs/)
+
 
 ### App web
 
-https://docs.streamlit.io
-https://fastapi.tiangolo.com
+- [Streamlit](https://docs.streamlit.io)
+- [FastAPI](https://fastapi.tiangolo.com)
 
 ## Recursos
 
