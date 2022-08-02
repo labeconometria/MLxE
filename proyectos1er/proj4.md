@@ -10,7 +10,7 @@
 6. Webinar 
 ## Descripción
 
-Con el . Realice:
+Con el [dataset2](https://raw.githubusercontent.com/labeconometria/MLxE/main/proyectos1er/dataset_2.csv). Realice:
 
 1. Exploración inicial de los datos
 2. Visualización de distribuciones
