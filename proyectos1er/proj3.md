@@ -12,7 +12,7 @@
 
 ## Descripción
 
-Realice una limpieza a la tabla ... En un notebook 
+Realice una limpieza a la tabla (dataset1)[https://raw.githubusercontent.com/labeconometria/MLxE/main/proyectos1er/dataset_1.csv] En un notebook 
 
 1. Importación de librerías
 2. Carga de datos
