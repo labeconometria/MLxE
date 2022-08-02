@@ -4,6 +4,7 @@
 
 1. Optimización de hiperparámetros
 2. Streamlit
+3. Árboles de decisión
 
 ## Descripción
 
