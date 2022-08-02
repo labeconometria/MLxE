@@ -10,7 +10,7 @@
 
 ## Descripción
 
-Con el [dataset3]():
+Con el [dataset3](https://github.com/labeconometria/MLxE/blob/main/proyectos2do/datasets3.csv):
 
 1. Realice una exploración inicial de los datos
 2. Realice una limpieza de los datos (missing values, datos inconsistentes, duplicados, outliers)
