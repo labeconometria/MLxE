@@ -12,7 +12,7 @@
 
 ## Descripción
 
-Realice una limpieza a la tabla [dataset1](https://raw.githubusercontent.com/labeconometria/MLxE/main/proyectos1er/dataset_1.csv) En un notebook 
+Realice una limpieza a la tabla [dataset1](https://raw.githubusercontent.com/labeconometria/MLxE/main/proyectos1er/dataset_1.csv). En un notebook lleve a cabo los siguientes ítems:
 
 1. Importación de librerías
 2. Carga de datos
@@ -41,7 +41,7 @@ Realice una limpieza a la tabla [dataset1](https://raw.githubusercontent.com/lab
 Entrega de notebook con:
 
 - Introducción
-- Desarrollo (separe las secciones haciendo uso del lenguaje `markdown`
+- Desarrollo (separe las secciones haciendo uso del lenguaje `markdown`)
 - Conclusión general
 
 
