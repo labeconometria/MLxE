@@ -7,7 +7,7 @@
 
 ## Descripción
 
-Con el [dataset2]:
+Con el [dataset2](https://raw.githubusercontent.com/labeconometria/MLxE/main/proyectos1er/dataset_2.csv):
 
 1. Realice una exploración inicial de los datos
 2. Realice una limpieza de los datos
