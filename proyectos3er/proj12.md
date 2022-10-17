@@ -1,4 +1,4 @@
-# Proyecto 13
+# Proyecto 12
 
 ## Requisitos
 
@@ -8,7 +8,7 @@
 
 ## Descripción
 
-Construya un dataset con varaibles extraidas de la API del Banco Mundial que puedan explicar la felicidad de un país. Seleccione tantos países como desee (al menos 60) y tantas variables como considere necesario (al menos 10). Cargue el dataset junto con el proyecto. Con este:
+Construya un dataset con variables extraidas de la API del Banco Mundial que puedan explicar la felicidad de un país. Seleccione tantos países como desee (al menos 60) y tantas variables como considere necesario (al menos 10). Cargue el dataset junto con el proyecto. Con este:
 
 1. Aplique PCA, T-SNE y UMAP. Conserve únicamente tres componentes.
 2. Aplique K-Means y BIRCH.
