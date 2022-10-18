@@ -8,6 +8,6 @@
 
 ## Visite el siguiente link y desarrolle la competencia. 
 
-
+[link](https://www.kaggle.com/competitions/competencia-ml-enfermedades-corazon)
 
 Recuerde que la calificación en las competencias es jerárquica.
